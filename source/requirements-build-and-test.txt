@@ -1,6 +1,6 @@
 black
 boto3
-click==7.1.2
+click==8.0.0
 coverage
 crhelper==2.0.6
 docker==4.4.0
